@@ -1,4 +1,4 @@
-This is basically a bad idea to start with. But I made it anyways. It's a raspberry powered counter and a clock. 
+This is basically a bad idea to start with. But I made it anyways. It's a raspberry powered Youtube Subscriber counter and a clock. 
 
 Parts List: 
 
